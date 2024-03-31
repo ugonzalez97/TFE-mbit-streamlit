@@ -1,0 +1,77 @@
+{
+  "Spain": {
+    "Todas": [{"name": "Todas", "coordinates": [40.1163000, -3.7325600]}],
+    "Andalucía": [
+      {"name": "Almería", "coordinates": [36.834047, -2.463714]},
+      {"name": "Cádiz", "coordinates": [36.527061, -6.288596]},
+      {"name": "Córdoba", "coordinates": [37.888175, -4.779383]},
+      {"name": "Granada", "coordinates": [37.178847, -3.600844]},
+      {"name": "Huelva", "coordinates": [37.261421, -6.944722]},
+      {"name": "Jaén", "coordinates": [37.769218, -3.790280]},
+      {"name": "Málaga", "coordinates": [36.721273, -4.421399]},
+      {"name": "Sevilla", "coordinates": [37.389092, -5.984459]}
+    ],
+    "Aragón": [
+      {"name": "Huesca", "coordinates": [42.136150, -0.4087]},
+      {"name": "Teruel", "coordinates": [40.345688, -1.106434]},
+      {"name": "Zaragoza", "coordinates": [41.648823, -0.889085]}
+    ],
+    "Asturias": [{"name": "Asturias", "coordinates": [43.361395, -5.859327]}],
+    "Baleares": [{"name": "Islas Baleares", "coordinates": [39.569600, 2.650160]}],
+    "Canarias": [
+      {"name": "Las Palmas", "coordinates": [28.123546, -15.436257]},
+      {"name": "Santa Cruz de Tenerife", "coordinates": [28.463630, -16.251847]}
+    ],
+    "Cantabria": [{"name": "Cantabria", "coordinates": [43.462306, -3.809980]}],
+    "Castilla-La Mancha": [
+      {"name": "Albacete", "coordinates": [38.994349, -1.858542]},
+      {"name": "Ciudad Real", "coordinates": [38.984829, -3.927377]},
+      {"name": "Cuenca", "coordinates": [40.070392, -2.137416]},
+      {"name": "Guadalajara", "coordinates": [40.633259, -3.166413]},
+      {"name": "Toledo", "coordinates": [39.862832, -4.027323]}
+    ],
+    "Castilla y León": [
+      {"name": "Ávila", "coordinates": [40.656685, -4.681209]},
+      {"name": "Burgos", "coordinates": [42.340892, -3.699762]},
+      {"name": "León", "coordinates": [42.598726, -5.567096]},
+      {"name": "Palencia", "coordinates": [42.012464, -4.531175]},
+      {"name": "Salamanca", "coordinates": [40.965157, -5.664018]},
+      {"name": "Segovia", "coordinates": [40.942903, -4.108807]},
+      {"name": "Soria", "coordinates": [41.765204, -2.467904]},
+      {"name": "Valladolid", "coordinates": [41.652943, -4.728388]},
+      {"name": "Zamora", "coordinates": [41.503471, -5.746787]}
+    ],
+    "Cataluña": [
+      {"name": "Barcelona", "coordinates": [41.385064, 2.173404]},
+      {"name": "Girona", "coordinates": [41.979401, 2.821426]},
+      {"name": "Lleida", "coordinates": [41.617590, 0.620015]},
+      {"name": "Tarragona", "coordinates": [41.118883, 1.244491]}
+    ],
+    "Extremadura": [
+      {"name": "Badajoz", "coordinates": [38.879450, -6.970654]},
+      {"name": "Cáceres", "coordinates": [39.475276, -6.372425]}
+    ],
+    "Galicia": [
+      {"name": "A Coruña", "coordinates": [43.362344, -8.411540]},
+      {"name": "Lugo", "coordinates": [43.009738, -7.556758]},
+      {"name": "Ourense", "coordinates": [42.335789, -7.863881]},
+      {"name": "Pontevedra", "coordinates": [42.431000, -8.643700]}
+    ],
+    "Madrid": [{"name": "Madrid", "coordinates": [40.416775, -3.703790]}],
+    "Murcia": [{"name": "Murcia", "coordinates": [37.992240, -1.130654]}],
+    "Navarra": [{"name": "Navarra", "coordinates": [42.695391, -1.676069]}],
+    "País Vasco": [
+      {"name": "Álava", "coordinates": [42.846718, -2.671635]},
+      {"name": "Bizkaia", "coordinates": [43.263013, -2.934985]},
+      {"name": "Gipuzkoa", "coordinates": [43.320812, -1.984447]}
+    ],
+    "La Rioja": [{"name": "La Rioja", "coordinates": [42.287073, -2.539603]}],
+    "Ceuta": [{"name": "Ceuta", "coordinates": [35.889387, -5.321345]}],
+    "Melilla": [{"name": "Melilla", "coordinates": [35.292339, -2.938794]}],
+    "Valencia": [
+      {"name": "Alicante", "coordinates": [38.345996, -0.490686]},
+      {"name": "Castellón", "coordinates": [39.986356, -0.051325]},
+      {"name": "Valencia", "coordinates": [39.469907, -0.376288]}
+    ]
+  }
+}
